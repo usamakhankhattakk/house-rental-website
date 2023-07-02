@@ -8,7 +8,6 @@ To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Import the database by uploading the `the_house_rental.sql` file to phpMyAdmin or any other MySQL database management tool.
-3. Update the database configuration in the `config.php` file to match your local database settings.
 4. Open the project in a web browser.
 
 ## Usage
